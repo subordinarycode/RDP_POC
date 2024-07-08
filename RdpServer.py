@@ -1,6 +1,6 @@
 import threading
 from threading import Timer
-from src.Netcat import Netcat
+from Netcat import Netcat
 from pynput import mouse, keyboard
 import json
 import time
